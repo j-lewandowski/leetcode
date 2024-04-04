@@ -4,8 +4,6 @@ class Solution:
         tmp = x
         reversedNumber = 0
         while tmp > 0:
-            reversedNumber = (reversedNumber*10) + tmp % 10
+            reversedNumber = (reversedNumber * 10) + tmp % 10
             tmp //= 10
         return reversedNumber == x
-        
-# print(Solution().isPalindrome(121))
