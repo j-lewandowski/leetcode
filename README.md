@@ -13,3 +13,6 @@ Most of them are made with python and some of them with Javascript
 | #   | Title              | Difficulty | Language | Solution Link                                     |
 | --- | ------------------ | ---------- | -------- | ------------------------------------------------- |
 | 217 | Contains duplicate | Easy       | Python   | [Solution](./217.%20Contains%20Duplicate/main.py) |
+| --- | ------------------ | ---------- | -------- | ------------------------------------------------- |
+| 242 | Valid Anagram      | Easy       | Python   | [Solution](./242.%20Valid%20Anagram/main.py)      |
+| --- | ------------------ | ---------- | -------- | ------------------------------------------------- |
