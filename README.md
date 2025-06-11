@@ -6,13 +6,12 @@ This is my repository for all my Leetcode problems codes.
 
 Most of them are made with python and some of them with Javascript
 
-### Link to my [Leetcode profile](https://leetcode.com/lewusdaprogrammer/)
+### Link to my [Leetcode profile](https://leetcode.com/u/j-lewandowski/)
 
 # Problem list
 
-| #   | Title              | Difficulty | Language | Solution Link                                     |
-| --- | ------------------ | ---------- | -------- | ------------------------------------------------- |
-| 217 | Contains duplicate | Easy       | Python   | [Solution](./217.%20Contains%20Duplicate/main.py) |
-| --- | ------------------ | ---------- | -------- | ------------------------------------------------- |
-| 242 | Valid Anagram      | Easy       | Python   | [Solution](./242.%20Valid%20Anagram/main.py)      |
-| --- | ------------------ | ---------- | -------- | ------------------------------------------------- |
+| #   | Title              | Difficulty | Language    | Solution Link                                     |
+| --- | ------------------ | ---------- | ----------- | ------------------------------------------------- |
+| 1   | Two Sum            | Easy       | Python / JS | [Solution](./1.%20Two%20Sum/main.py)              |
+| 217 | Contains duplicate | Easy       | Python      | [Solution](./217.%20Contains%20Duplicate/main.py) |
+| 242 | Valid Anagram      | Easy       | Python      | [Solution](./242.%20Valid%20Anagram/main.py)      |
