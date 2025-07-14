@@ -15,6 +15,7 @@ Most of them are made with python and some of them with Javascript
 | 1   | Two Sum                      | Easy       | Python / JS | [Solution](./1.%20Two%20Sum/main.py)                         |
 | 39  | Valid Sudoku                 | Medium     | Python      | [Solution](./39.%20Valid%20Sudoku/)                          |
 | 49  | Group Anagrams               | Medium     | Python      | [Solution](./49.%20Group%20Anagrams/main.py)                 |
+| 125 | Valid Palindrome             | Easy       | Python      | [Solution](./125.%20Valid%20Palindrome/main.py)              |
 | 217 | Contains duplicate           | Easy       | Python      | [Solution](./217.%20Contains%20Duplicate/main.py)            |
 | 238 | Product of Array Except Self | Medium     | Python      | [Solution](./238.%20Product%20of%20Array%20Except%20Self/)   |
 | 242 | Valid Anagram                | Easy       | Python      | [Solution](./242.%20Valid%20Anagram/main.py)                 |
